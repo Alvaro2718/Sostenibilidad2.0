@@ -1,5 +1,16 @@
 # Sostenibilidad2.0
 
+### Viernes 17/10/2025
+
+En la clase de hoy comentamos conceptos sobre que "Los seres humanos también formamos parte del ecosistema".
+
+Se nos plantea una pregunta sobre "¿Qué hacemos nosotros: cooperamos o competimos?"
+A la que mi compañero Pedro a hecho un comentario cual me parece muy adecuado, su respuesta a sido: "depende de lo que me interese", lo cual me parece muy adecuado o una respuesta muy adecuada a la pregunta que se nos ha planteado.
+
+En la clase de hoy no me a quedado claro los conceptos sobre los que hemos hablado, la verdad.
+Lo que he sacado en claro es que el ser humano es el único que actua por intereses como la códicia, llegando a usar escopetas.
+Que la naturaleza simplemente cubre intereses básicos como supervivencia.
+
 
 
 
