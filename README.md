@@ -1,5 +1,18 @@
 # Sostenibilidad2.0
 
+
+### Viernes 24/10/2025
+
+En la clase hoy, el punto fuerte desde mi punto de vista de lo que hemos hablado se trata de las estrategias de sostenibilidad 'K' y 'R'. Por lo que yo he entendido, estas estrategias son conceptos sobre cómo las especies se adaptan a su entorno.
+
+- Las especies R se reproducen en más cantidad y más rápido, y aprovechan eso como un recurso.  
+- Las especies K se reproducen en menos cantidad y se enfocan en la supervivencia, consumiendo los recursos de forma lo más eficiente posible.
+
+La pregunta que se ha planteado hoy es: **¿Los humanos somos K o R?**  
+
+> Los humanos se consideran principalmente especies K, porque tendemos a tener menos descendencia y dedicamos mucho tiempo y recursos a cuidar a cada individuo, asegurando su supervivencia. Esto refleja una estrategia de vida enfocada en calidad sobre cantidad, típica de entornos más estables, lo que también se relaciona con cómo gestionamos y usamos los recursos en sostenibilidad.
+
+
 ### Viernes 17/10/2025
 
 En la clase de hoy comentamos conceptos sobre que "Los seres humanos también formamos parte del ecosistema".
@@ -28,8 +41,6 @@ Ya que lo recursos son límitados y debemos aprovecharlos todo lo posible y de u
 
 Por ejemplo: la idea consiste en talar un árbol y plantar otro uno nuevo en su lugar (pues esto con todo).
 Esta es la mi opinión de lo que tratado la clase de hoy.
-
-
 
 
 ### Viernes 3/10/2025
