@@ -1,5 +1,24 @@
 # Sostenibilidad2.0
 
+### Viernes 31/10/2025
+
+En la clase de hoy:
+
+Hablamos sobre que los humanos son animales, que los recursos del planeta son finitos y que **no todos los recursos del planeta están al alcance de todos**.  
+Además, aunque existan recursos naturales, el **consumo es creciente** —cada vez somos más—, lo que genera conflictos entre la población.
+
+Comentamos que las zonas con ríos tienen más disponibilidad de agua, mientras que en **Jumilla** no hay ninguno.  
+Sin embargo, sí hay **acuíferos**, por lo que es necesario construir **pozos** para acceder y extraer agua, tanto para el **uso agrícola** como para el **consumo humano**.
+
+También hablamos sobre el **concepto de las tres dimensiones**, algo que no conocía.
+
+Las tres dimensiones son:
+
+- **Social**
+- **Económica**
+- **Ambiental**
+
+
 
 ### Viernes 24/10/2025
 
