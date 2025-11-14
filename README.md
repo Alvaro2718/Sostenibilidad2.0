@@ -1,6 +1,69 @@
 # Sostenibilidad2.0
 
-### Viernes 31/10/2025
+<<<<<<< Updated upstream
+
+## Viernes 14/11/2025
+
+### Resumen de la clase de hoy
+*(La novedad de hoy es que deberemos introducir una imagen)*
+
+![alt text](Sostenibilidad-1.jpg)
+
+Hablamos sobre la diferencia entre el peso de un producto final —por ejemplo, un móvil de 150 gramos— y el peso de los residuos que se generan en el ciclo de vida de la creación de un producto.  
+A esto se le llama **peso oculto**.
+
+También hablamos sobre las energías disponibles en la Tierra: solar, eólica, hidroeléctrica, nuclear y geotérmica.  
+Llegamos a la conclusión de que las dos grandes fuentes de energía son la **solar** y la **nuclear**.
+
+Comentamos ideas como **Economía Lineal** y **Economía Circular**.
+
+---
+
+### Análisis de Ciclo de Vida
+
+1. **Materias Primas:** Extracción de recursos de la Tierra.  
+2. **Fabricación:** Proceso industrial, ensamblaje y embalaje del producto.  
+3. **Distribución:** Transporte del producto final a las tiendas.  
+4. **Uso:** La vida del producto con el consumidor, incluido el mantenimiento.  
+5. **Gestión Final:** Desecho del producto (vertedero, reciclaje o reutilización).
+
+---
+
+La pregunta que nos hacemos en este punto es:  
+**Elegimos uno de estos pasos para preguntar a la IA sobre el ciclo de vida de un producto.**  
+Por ejemplo: *el ciclo de vida de un coche eléctrico*.
+### Yo eligo en paso 1º Materias Primas en el Ciclo de Vida de un Coche Eléctrico
+
+La etapa de **materias primas** consiste en la extracción y obtención de los recursos necesarios para fabricar las distintas partes de un coche eléctrico. Esta fase tiene un gran impacto ambiental, ya que implica minería, transporte de materiales y consumo de energía.
+
+**Principales materias primas necesarias:**
+
+- **Litio:** Utilizado en las baterías de iones de litio.  
+- **Cobalto:** Mejora el rendimiento y estabilidad de las baterías.  
+- **Níquel:** Aumenta la capacidad energética de las celdas.  
+- **Grafito:** Material clave para los electrodos de la batería.  
+- **Cobre:** Necesario para el cableado y el motor eléctrico.  
+- **Aluminio y acero:** Para la carrocería, el chasis y componentes estructurales.  
+- **Tierras raras (neodimio, lantano, etc.):** Usadas en motores eléctricos con imanes permanentes.
+
+**Impactos ambientales principales:**
+
+- Consumo elevado de agua en la extracción de litio.  
+- Minería intensiva que puede generar contaminación del suelo y pérdida de biodiversidad.  
+- Emisiones derivadas del transporte de materias primas a las fábricas.  
+- Condiciones laborales y sociales problemáticas en regiones con minería de cobalto.
+
+
+
+
+
+## Viernes 7/11/2025
+No hubo clase
+
+
+# Noviembre
+
+## Viernes 31/10/2025
 
 En la clase de hoy:
 
@@ -17,6 +80,7 @@ Las tres dimensiones son:
 - **Social**
 - **Económica**
 - **Ambiental**
+
 
 
 
