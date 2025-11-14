@@ -7,7 +7,7 @@
 ### Resumen de la clase de hoy
 *(La novedad de hoy es que deberemos introducir una imagen)*
 
-![alt text](Sostenibilidad-1.jpg)
+![alt text](Sostenibilidad.jpg)
 
 Hablamos sobre la diferencia entre el peso de un producto final —por ejemplo, un móvil de 150 gramos— y el peso de los residuos que se generan en el ciclo de vida de la creación de un producto.  
 A esto se le llama **peso oculto**.
