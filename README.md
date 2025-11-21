@@ -2,7 +2,13 @@
 
 <<<<<<< Updated upstream
 
-## Viernes 14/11/2025
+### Viernes 21/11/2025
+Este viernes no hubo clase
+
+
+
+
+### Viernes 14/11/2025
 
 ### Resumen de la clase de hoy
 *(La novedad de hoy es que deberemos introducir una imagen)*
@@ -57,13 +63,13 @@ La etapa de **materias primas** consiste en la extracción y obtención de los r
 
 
 
-## Viernes 7/11/2025
+### Viernes 7/11/2025
 No hubo clase
 
 
 # Noviembre
 
-## Viernes 31/10/2025
+### Viernes 31/10/2025
 
 En la clase de hoy:
 
