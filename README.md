@@ -1,7 +1,43 @@
 # Sostenibilidad2.0
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+### Viernes 28/11/2025
+### Resumen de la clase de hoy
+Hoy hemos visto la diferencia entre la economía lineal y la economía circular.
+La economía lineal sigue el modelo de “tomar, hacer y desechar”, mientras que la circular busca reducir, reutilizar y reciclar para cerrar el ciclo de los recursos.
+
+Pregunta: “¿Y a mí qué me cuentas?” ¿Enfoque colectivo o individual?
+1. “¿Y a mí qué me cuentas?”
+
+Aunque parezca algo lejano, la economía lineal me afecta en mi día a día:
+
+Pago más por los productos, porque muchos están diseñados para durar poco o no repararse.
+
+Genero más basura, y esa basura vuelve a mi entorno: mi barrio, mi ciudad y, al final, mi salud.
+
+Se agotan los recursos, y lo que hoy es barato mañana puede ser escaso y mucho más caro.
+
+Influye en mi futuro laboral, porque los modelos lineales son más frágiles, mientras que la economía circular crea nuevas oportunidades en reparación, reutilización y gestión de materiales.
+
+En resumen, la economía circular no es solo “algo global”, también me beneficia directamente: productos más duraderos, menos residuos y un sistema económico más estable.
+
+2. ¿El ecodiseño en qué me afecta?
+
+El ecodiseño me afecta porque influye directamente en la calidad y el uso de los productos que compro. Cuando algo está diseñado con criterios ambientales:
+
+Me dura más tiempo, porque se piensa para ser resistente y fácil de reparar.
+
+Me cuesta menos, ya que no tengo que reemplazarlo tan rápido.
+
+Genero menos residuos, porque los materiales se pueden reutilizar o reciclar mejor.
+
+Consumo con más sentido, porque sé que detrás del producto hay un diseño que busca reducir el impacto ambiental desde el principio.
+
+En resumen, el ecodiseño mejora mi día a día porque me ofrece productos más prácticos, económicos y sostenibles sin que yo tenga que hacer un esfuerzo extra..
+>>>>>>> 444c4b26303c38369763a3a832b6c7ee0b4ad7c3
 
 ### Viernes 21/11/2025
 Este viernes no hubo clase
