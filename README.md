@@ -1,6 +1,7 @@
 # Sostenibilidad2.0
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 ### Viernes 21/11/2025
 Este viernes no hubo clase
@@ -89,6 +90,8 @@ Las tres dimensiones son:
 
 
 
+=======
+>>>>>>> Stashed changes
 
 ### Viernes 24/10/2025
 
