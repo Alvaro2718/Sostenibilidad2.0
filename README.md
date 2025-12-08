@@ -4,6 +4,37 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 =======
+### Viernes 05/12/2025
+### Resumen de la clase de hoy
+
+En la clase de hoy hemos comentado ideas sobre la huella ecológica y la de carbono.
+
+---
+
+### Una breve explicación
+
+**Huella ecológica:** es la cantidad de recursos naturales que utilizamos y la cantidad de desechos que generamos. Representa el impacto que provocamos en el planeta, incluyendo el uso de energía, agua, alimentos, transporte y los residuos que producimos.
+
+**Huella de carbono:** es la cantidad de gases de efecto invernadero (principalmente CO₂) que emitimos debido a nuestras actividades. Antes existía un equilibrio natural, pero los seres humanos estamos emitiendo CO₂ en una cantidad que acelera el proceso natural del clima, aumentando el calentamiento global. Esta huella ha ido incrementándose con los años.
+
+**Huella digital:** hace referencia al rastro que dejamos cuando usamos herramientas tecnológicas: nuestras actividades en línea, búsqueda de información, redes sociales, datos que compartimos, etc.
+
+**Estrategias de mitigación:** son acciones para reducir nuestro impacto: consumir responsablemente, ahorrar energía, reciclar, reutilizar y compensar a la naturaleza aquello que extraemos de ella.
+
+---
+
+### ¿Cuál es mi huella de carbono?
+Comprobamos nuestra huella de carbono en la web footprintcalculator.org
+las preguntas que se realizan en la web estan muy bien, pero el sistema pone muy dificil ser sostenible, ya que no fomenta el consumo de producto obtenidos de manera natural, aún menos producirlos uno mismo.
+
+![Imagen principal de la web](HuellaDigital.png)
+
+![Resultado de mi huella de cabono](Resultado.PNG)
+
+![Resultado de mi huella de cabono](Resultado2.PNG)
+
+
+
 ### Viernes 28/11/2025
 ### Resumen de la clase de hoy
 Hoy hemos visto la diferencia entre la economía lineal y la economía circular.
