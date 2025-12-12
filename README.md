@@ -1,9 +1,53 @@
 # Sostenibilidad2.0
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
+### Viernes 12/12/2025
+
+### Resumen de la clase de hoy
+
+Hoy hablamos sobre el **cambio climático**, que justifica de manera política y social la necesidad de hablar de **sostenibilidad**. Dentro de todas las amenazas que ponen en riesgo la vida humana, el cambio climático es una de las que se percibe como más reales y cercanas. Además, genera una gran preocupación a nivel institucional, hasta el punto de que los **ministros de defensa** le prestan especial atención.
+
+#### Causas y consecuencias del cambio climático
+
+- **Aumento de la temperatura global**, provocado principalmente por la emisión de gases de efecto invernadero.
+- **Eventos climáticos extremos**, como olas de calor, sequías prolongadas, inundaciones, incendios forestales y tormentas más intensas.
+- **Escasez de recursos**, especialmente agua y alimentos, que puede generar tensiones sociales.
+- **Subida del nivel del mar**, que amenaza a ciudades costeras y provoca desplazamientos de población.
+- **Pérdida de biodiversidad**, afectando al equilibrio de los ecosistemas.
+
+
+---
+
+### ¿Por qué los ministros de defensa consideran el cambio climático un tema de seguridad nacional?
+
+El cambio climático es un problema de **seguridad nacional** porque actúa como un *multiplicador de amenazas*. Puede provocar conflictos por recursos naturales, desplazamientos masivos de población (migraciones climáticas), inestabilidad política y crisis humanitarias. Además, los desastres naturales pueden afectar infraestructuras críticas, bases militares y la capacidad de respuesta de los Estados. Por ello, los ministerios de defensa lo analizan como un riesgo estratégico que puede aumentar la probabilidad de conflictos y desestabilizar regiones enteras.
+
+### La pregunta de hoy
+
+#### ¿Cuál es el mayor emisor de CO₂?
+
+El mayor emisor de CO₂ a nivel global es el **sector energético**, especialmente la **quema de combustibles fósiles** como el carbón, el petróleo y el gas natural para producir electricidad, calor y transporte.  
+A nivel de países, **China**, **Estados Unidos** y **India** se encuentran entre los mayores emisores debido a su tamaño, población y modelo energético. Sin embargo, el problema no se limita a un solo país, ya que el cambio climático es un fenómeno **global** causado por la suma de las emisiones de todos.
+
+---
+
+#### ¿Qué puedo hacer yo como programador para mitigar el cambio climático?
+
+Como programador, también se puede contribuir a la lucha del cambio climático desde el ámbito profesional:
+
+- **Desarrollar software eficiente**, que consuma menos recursos computacionales y, por tanto, menos energía.
+- **Optimizar el uso de servidores y la nube**, reduciendo procesos innecesarios y mejorando la eficiencia del código.
+- **Apoyar proyectos de sostenibilidad**, como aplicaciones para el ahorro energético, la movilidad sostenible o la gestión eficiente de recursos.
+- **Elegir proveedores tecnológicos responsables**, que utilicen energías renovables en sus centros de datos.
+- **Concienciar desde la tecnología**, creando herramientas que ayuden a medir, visualizar y reducir el impacto ambiental.
+
+Aunque la programación no parece contaminante de forma directa, el mundo digital también tiene una huella ambiental, y un uso responsable de la tecnología puede marcar una diferencia real.
+
+
+
+
+
+
+======
 ### Viernes 05/12/2025
 ### Resumen de la clase de hoy
 
