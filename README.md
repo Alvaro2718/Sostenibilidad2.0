@@ -1,5 +1,10 @@
 # Sostenibilidad2.0
 
+### Viernes 19/12/2025
+### Resumen de la clase de hoy 
+Punto uno, hablamos sobre el plan que tenemos estas vacaciones.(Alguno más interesante que otro la verdad)
+Punto dos, hablamos sobre el primer problema de la bajante y de los sistemas de alcantarillado que son "Las Tuallitas" 
+
 ### Viernes 12/12/2025
 
 ### Resumen de la clase de hoy
