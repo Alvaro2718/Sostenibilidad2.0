@@ -1,5 +1,57 @@
 # Sostenibilidad2.0
 
+
+### Viernes 9/12/2026
+
+### Resumen de la clase de hoy
+
+El tema de la clase de hoy es **Contaminación y Residuos**, bajo el concepto de  
+**“Tu huella digital y física”**.
+
+#### ¿Qué es la contaminación?
+La contaminación es la **introducción de sustancias o elementos dañinos en un entorno natural**, alterando su equilibrio y causando efectos negativos en los seres vivos y los ecosistemas.  
+Se produce principalmente por actividades humanas como la industria, el transporte y la mala gestión de residuos.
+
+#### ¿Qué es un residuo?
+Un residuo es **cualquier sustancia u objeto que se desecha tras su uso o consumo**.  
+En muchos casos, los seres humanos decidimos enterrarlos en vertederos porque consideramos que ya no tienen valor, no pueden reutilizarse y han perdido su utilidad.
+
+![alt text](image.png)
+
+En la imagen vemos una **montaña de basura electrónica**, resultado del consumo masivo de dispositivos tecnológicos y de su corta vida útil.
+
+---
+
+#### Bioacumulación: ¿qué es?
+La **bioacumulación** es el proceso por el cual **sustancias contaminantes** (como metales pesados, pesticidas o productos químicos) **se van acumulando en el interior de los organismos vivos** con el paso del tiempo.  
+Esto ocurre porque el organismo absorbe estas sustancias más rápido de lo que puede eliminarlas, lo que puede provocar efectos tóxicos incluso con exposiciones pequeñas pero continuas.
+
+---
+
+Ríos incendiados por **vertidos de hidrocarburos**, procedentes de refinerías cercanas o instalaciones industriales colindantes.
+
+![alt text](image-1.png)
+
+Ríos cubiertos por **espuma tóxica**, causada por vertidos industriales y productos químicos.
+
+![alt text](image-2.png)
+
+---
+
+La idea principal del sistema actual es **maximizar el beneficio económico**, por lo que los residuos pueden recorrer un largo camino antes de desaparecer de nuestra vista.  
+La **contaminación** y los **residuos** van de la mano, pero **no son lo mismo**: los residuos son el origen y la contaminación es una de sus consecuencias.
+
+---
+
+### ¿Por qué cambias de móvil?  
+*(Pregunta planteada hoy en clase)*
+
+En mi caso, intento cambiar de móvil lo mínimo posible, ya que considero innecesario hacerlo con frecuencia.  
+Las veces que he cambiado de móvil ha sido porque el anterior ha sufrido algún accidente que ha provocado que deje de funcionar. Estos accidentes pueden ir desde que se caiga al váter del cuarto de baño hasta pisarlo accidentalmente con la rueda del coche.
+
+Los modelos de móvil que uso nunca superan los 150 €, ya que marcas como Xiaomi ofrecen una buena relación calidad-precio.
+
+
 ### Viernes 19/12/2025
 ### Resumen de la clase de hoy 
 Punto uno, hablamos sobre el plan que tenemos estas vacaciones.(Alguno más interesante que otro la verdad)
