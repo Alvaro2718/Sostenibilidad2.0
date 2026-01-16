@@ -1,5 +1,63 @@
 # Sostenibilidad2.0
 
+### Viernes 16/01/2026
+### Resumen de la clase de hoy
+Agenda 2030 y los Objetivos de Desarrollo Sostenible:
+
+![alt text](image-3.png)
+
+---
+
+### ¿Qué son los Objetivos de Desarrollo Sostenible?
+
+Los **ODS** son un conjunto que tratan temas muy variados, como:
+
+- Fin de la pobreza  
+- Hambre cero  
+- Salud y bienestar  
+- Educación de calidad  
+- Igualdad de género  
+- Energía asequible y no contaminante  
+- Acción por el clima  
+- Producción y consumo responsables  
+
+Todos estos objetivos buscan mejorar la calidad de vida de las personas sin dañar el planeta.
+
+---
+
+### ¿Por qué son importantes los ODS?
+
+Son importantes porque:
+- Afectan directamente a nuestra forma de vivir ahora.
+- Intentan reducir desigualdades entre países y personas.
+- Promueven un uso más responsable de los recursos naturales.
+- Involucran tanto a gobiernos como a empresas y ciudadanos.
+
+---
+
+### ¿Qué relación tiene la Agenda 2030 conmigo?
+
+Aunque pueda parecer algo lejano, la Agenda 2030 también nos afecta a nivel personal. Acciones como consumir de forma responsable, reducir residuos, usar tecnología de manera eficiente o apoyar la igualdad social están directamente relacionadas con los ODS.
+
+---
+
+### La pregunta de hoy
+
+#### ¿Se van a conseguir los Objetivos de Desarrollo Sostenible?
+
+Es difícil que los **Objetivos de Desarrollo Sostenible** se cumplan al 100 % antes de 2030. Algunos avances se han logrado, pero muchos objetivos van más lentos de lo esperado debido a factores como conflictos armados, desigualdades económicas, crisis climática y falta de compromiso real por parte de algunos gobiernos y empresas.
+
+Aun así, eso no significa que los ODS no sirvan para nada. Aunque no se alcancen completamente, funcionan como una **guía** que marca el camino a seguir y ayudan a que los países, las empresas y la sociedad sean más conscientes de los problemas globales.
+
+En definitiva, puede que no se cumplan todos los objetivos, pero intentarlo ya supone un avance importante frente a no hacer nada.
+
+
+### Conclusión
+
+La Agenda 2030 y los Objetivos de Desarrollo Sostenible nos recuerdan que los problemas globales necesitan soluciones colectivas. 
+Aunque no podamos cambiar el mundo de golpe, nuestras decisiones diarias sí cuentan. Entender los ODS es el primer paso para ser más conscientes de nuestro impacto y actuar de forma más responsable como ciudadanos.
+
+
 
 ### Viernes 9/12/2026
 
