@@ -1,5 +1,64 @@
 # Sostenibilidad2.0
 
+### Viernes 23/01/2026
+
+### Resumen de la clase de hoy
+
+La clase de hoy ha tratado sobre el **plan de sostenibilidad empresarial**. La idea principal es que los recursos que se utilizan para fabricar productos son limitados y, por tanto, es fundamental **gestionarlos de manera sostenible** para evitar que se agoten.
+
+Si un recurso se utiliza sin control, llega un momento en el que escasea y su precio sube. Esto no solo afecta al consumidor, sino también a las propias empresas.
+
+#### Ejemplo explicado en clase
+
+Si la **harina** escasea y una barra de pan pasa a costar **20 €**, la gente dejará de comprar pan.  
+Como consecuencia, las panaderías venderán menos y muchas acabarán cerrando, haciendo que los panaderos ganen menos dinero o pierdan su trabajo.
+
+Esto es lo que se entiende por **sostenibilidad empresarial**: asegurar que la actividad económica pueda mantenerse en el tiempo sin destruir los recursos de los que depende.  
+Este análisis inicial se conoce como **diagnóstico inicial**.
+
+---
+
+### Ideas clave vistas en clase
+
+- **La sostenibilidad no es una opción, es una condición de supervivencia.**
+- **Ecodependencia:** dependemos del medio ambiente para sobrevivir y producir.
+- **Translimitación:** estamos consumiendo más recursos de los que el planeta puede regenerar.
+- **Cambio de paradigma:** es necesario cambiar la forma tradicional de producir y consumir.
+
+---
+
+### Grupos de interés
+
+Las empresas no existen de forma aislada. Tienen **grupos de interés** (*stakeholders*), como:
+- Clientes  
+- Trabajadores  
+- Proveedores  
+- Sociedad  
+- Medio ambiente  
+
+Todos ellos se ven afectados por las decisiones empresariales.
+
+---
+
+### Indicadores KPIs
+
+Los **KPIs** (indicadores clave de rendimiento) sirven para medir si una empresa está cumpliendo sus objetivos de sostenibilidad.  
+Como se dijo en clase: **“lo que no se mide, no mejora”**.
+
+Para ello, es necesario elaborar un **informe o documento** donde se recojan datos, objetivos y resultados.
+
+---
+
+### Pregunta de hoy  
+#### ¿El *greenwashing* sirve para algo?
+
+En mi opinión, **sí tiene cierto sentido**, pero con matices. El *greenwashing* puede servir para generar conciencia y hacer que las empresas empiecen a hablar de sostenibilidad. Sin embargo, si no va acompañado de cambios reales, se queda solo en imagen y marketing.
+
+Lo importante no es parecer sostenible, sino **usar de forma responsable los recursos necesarios para la producción empresarial**, ya que de ello depende la supervivencia de la propia empresa a largo plazo.
+
+![alt text](image-4.png)
+
+
 ### Viernes 16/01/2026
 ### Resumen de la clase de hoy
 Agenda 2030 y los Objetivos de Desarrollo Sostenible:
