@@ -1,5 +1,12 @@
 # Sostenibilidad2.0
 
+### Viernes 06/02/2026
+Hacemos la presentación de web grupal
+![alt text](image-5.png)
+
+### Viernes 30/01/2026
+Festivo/ no hubo clase
+
 ### Viernes 23/01/2026
 
 ### Resumen de la clase de hoy
